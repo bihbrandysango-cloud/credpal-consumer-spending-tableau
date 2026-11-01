@@ -1,4 +1,4 @@
-# Consumer Spending Power: A Tableau Dashboard
+# Tableau Project: Consumer Spending Power Dashboard
 
 **Where do consumers earn the most, how much of it do they spend, and who has room left to repay a loan?**
 
@@ -153,7 +153,7 @@ This began as a group dashboard on the same data. In this rework I rebuilt it ar
 ## Repository structure
 
 ```
-credpal-consumer-spending-analysis/
+credpal-consumer-spending-tableau/
 ├── README.md
 ├── LICENSE
 ├── CONTRIBUTING.md
