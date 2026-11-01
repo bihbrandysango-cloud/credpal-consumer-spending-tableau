@@ -53,7 +53,7 @@ CredPal is a consumer credit company. Before it decides which markets and produc
 
 ## The dashboard
 
-The Dashboard page has four filters (Year, Region, Segment, Priority), five KPI cards and six charts. Every filter applies to every chart.
+The Dashboard page has a navy sidebar with four filters (Year, Region, Segment, Priority) and a short reading guide, five KPI cards, and six charts, including a treemap of income by segment shaded by spending rate. Every filter applies to every card and chart.
 
 ![Dashboard page](docs/dashboard.png)
 
