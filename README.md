@@ -8,6 +8,7 @@ A Tableau dashboard on a survey of 500,000 consumer records from 185 countries (
 
 ## Quick links
 
+- 🌐 [Live dashboard and loan simulator](https://bihbrandysango-cloud.github.io/projects/consumer-spending/), the web version, which runs in any browser
 - 📊 [Tableau workbook](tableau/CredPal%20Consumer%20Spending.twbx), with three pages: Brief, Dashboard and Insights
 - 🗂️ [Summary data (CSV)](data/credpal_spending_summary.csv)
 - 🖼️ [Brief page](docs/brief.png) and [Insights page](docs/insights.png)
